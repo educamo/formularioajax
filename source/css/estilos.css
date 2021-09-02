@@ -32,31 +32,3 @@ section {
 .submit {
     margin-top: 1rem;
 }
-
-.massage {
-    margin: 0.5rem;
-    padding: 0.5rem;
-}
-
-.massageerror {
-    margin: 0.5rem;
-    padding: 0.5rem;
-    background-color: #e96048;
-    color: #ffffff;
-}
-
-@media (max-width: 1000px) {
-    section {
-        width: 50%;
-        height: auto;
-        position: relative;
-        margin: 30px;
-    }
-}
-
-@media (max-width: 360px) {
-    section {
-        margin: 0px;
-        width: 100%;
-    }
-}

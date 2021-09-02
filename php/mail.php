@@ -18,11 +18,4 @@
     $message = $formData[0];
     
     mail($to, $subject, $message, $headers);
-
- 
-
-
-    $datos = 'Los Datos se guardaron correctamente';
-
-echo json_encode($datos);
 ?> 
