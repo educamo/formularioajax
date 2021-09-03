@@ -18,4 +18,7 @@
     $message = $formData[0];
     
     mail($to, $subject, $message, $headers);
-?> 
+
+    header("Location: ../index.html");
+die();
+    ?> 
