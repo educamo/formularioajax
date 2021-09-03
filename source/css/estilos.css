@@ -15,18 +15,17 @@ section {
     margin: 30px;
     margin-top: 50px;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 22px 18px 43px -24px #a118a1b5;
 }
 
 #frmregistro {
     margin: 50px;
     padding: 30px;
-    border-radius: 10px;
 }
 
 .primera {
-    background-color: #93a3a3;
+    background-color: #a2caca;
 }
 
 .submit {

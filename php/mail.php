@@ -11,6 +11,7 @@
     );
 
 
+
     $to = "ejemploexample.com";
     $subject = "Asunto del email";
     $headers = "MIME-Version: 1.0" . "\r\n";
